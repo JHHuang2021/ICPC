@@ -1,0 +1,6 @@
+/mnt/d/CLionProjects/ICPC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/CLionProjects/ICPC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/CLionProjects/ICPC/cmake-build-debug/CMakeFiles/1347_Revised.dir
+/mnt/d/CLionProjects/ICPC/cmake-build-debug/CMakeFiles/1347.dir
+/mnt/d/CLionProjects/ICPC/cmake-build-debug/CMakeFiles/1346.dir
+/mnt/d/CLionProjects/ICPC/cmake-build-debug/CMakeFiles/1383.dir

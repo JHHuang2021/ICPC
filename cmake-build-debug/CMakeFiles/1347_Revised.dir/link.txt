@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1347_Revised.dir/1347_Revised.cpp.o  -o 1347_Revised 
